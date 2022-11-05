@@ -14,7 +14,7 @@
 	<name>arduino_motor</name>
 	<description>Demo project for Arduino</description>
 	<properties>
-		<java.version>18</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
